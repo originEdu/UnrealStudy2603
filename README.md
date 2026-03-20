@@ -17,6 +17,7 @@
 * 캐릭터 wsad+turn+lookup+jump 구현
 * 캐릭터 애니메이션 적용(몽타주, 블랜더스페이스, 루프본회전)
 * 캐릭터 AimOffset(Additive) 적용
+* BehaviorTree로 구현한 몬스터 패트롤과 추적
 
 # ReviewMap - 배운거 복습용 맵
 
